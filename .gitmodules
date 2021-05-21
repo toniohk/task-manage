@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/star-008/rails_task-manage.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/star-008/react_task-manage.git
